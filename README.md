@@ -1,4 +1,4 @@
-# Hotel-Reservation-System-Using-C-
+# Hotel-Reservation-System-Using-C++
 This Project is created using C++ and OOP concept. Primary goal of this project is to reserve hotel rooms using this system
 
 ![1](https://user-images.githubusercontent.com/71471346/122569360-199da180-d064-11eb-930e-3c2d332191d4.JPG)
